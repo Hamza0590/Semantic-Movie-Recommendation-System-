@@ -64,14 +64,14 @@ It contains metadata such as:
 
  ---
 ## 💻 Installation & Setup:
-1- Clone the Repository
-2- Unzip the Folder
-3- Run: pip install -r requirements.txt
-4- Run: streamlit run movie.py
-5- Open: http://localhost:8501
+- Clone the Repository.
+- Unzip the Folder.
+- Run: pip install -r requirements.txt.
+- Run: streamlit run movie.py.
+- Open: http://localhost:8501.
 
-
+---
 ##🧑‍💻 Author
-Muhammad Hamza
-Student, FAST University Islamabad
-5th Semester – BS Artificial Intelligence
+- Muhammad Hamza
+- Student, FAST University Islamabad
+- 5th Semester – BS Artificial Intelligence
