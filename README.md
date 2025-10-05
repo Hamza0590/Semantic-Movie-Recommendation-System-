@@ -62,7 +62,7 @@ It contains metadata such as:
        f"Release Year: {release_date[:4]}"
    )
 
- 
+ ---
 ## 💻 Installation & Setup:
 1- Clone the Repository
 2- Unzip the Folder
