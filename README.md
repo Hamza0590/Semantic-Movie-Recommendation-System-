@@ -20,7 +20,7 @@ The system then retrieves thematically and contextually similar movies using **v
 - 🧱 **Efficient Batching:** Embeddings generated in batches for scalability.  
 - 🎛 **Streamlit UI:** Interactive, lightweight front-end for instant user feedback.  
 - 🧮 **GPU Acceleration:** Automatically uses CUDA for faster embedding computation.  
-- 💾 **Dataset Included:** A TMDB-based movie dataset is provided in the accompanying ZIP folder.  
+- 💾 **Dataset Used:** [A TMDB-based movie dataset is available on kaggle](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies).  
 
 ---
 
