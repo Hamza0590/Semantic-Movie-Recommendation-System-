@@ -38,8 +38,7 @@ The system then retrieves thematically and contextually similar movies using **v
 
 ## 📂 Dataset
 A preprocessed **TMDB movie dataset** is included in the ZIP folder as:
-It contains metadata such as:
-- Movie title  
+It contains metadata such as: 
 - Overview  
 - Genres  
 - Tagline  
