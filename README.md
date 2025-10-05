@@ -61,12 +61,14 @@ It contains metadata such as:
        f"Overview: {overview}. "
        f"Release Year: {release_date[:4]}"
    )
-   💻 Installation & Setup:
-   1- Clone the Repository
-   2- Unzip the Folder
-   3- Run: pip install -r requirements.txt
-   4- Run: streamlit run movie.py
-   5- Open: http://localhost:8501
+
+ 
+## 💻 Installation & Setup:
+1- Clone the Repository
+2- Unzip the Folder
+3- Run: pip install -r requirements.txt
+4- Run: streamlit run movie.py
+5- Open: http://localhost:8501
 
 
 ##🧑‍💻 Author
